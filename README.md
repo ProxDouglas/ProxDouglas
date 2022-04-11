@@ -4,6 +4,7 @@
 - 🔭 Hoje procuro por emprego
 - 🌱 Estudando Angular, Spring
 - 📧 Contate-me no email: douglas.cteles@hotmail.com
+- Apresentação de TCC: https://youtu.be/-3qZNrPsqvY?t=89
 
 <div align="center">
   <a href="https://github.com/ProxDouglas">
