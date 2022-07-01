@@ -1,8 +1,7 @@
 ### Olá! Eu sou Douglas 👋
 
 
-- 🔭 Hoje procuro por emprego
-- 🌱 Estudando Angular, Spring
+- 🌱 Estudando Angular, Spring, nodejs e react
 - 📧 Contate-me no email: douglas.cteles@hotmail.com
 - Apresentação de TCC: https://youtu.be/-3qZNrPsqvY?t=89
 
