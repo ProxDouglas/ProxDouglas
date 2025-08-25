@@ -3,7 +3,7 @@
 
 - 🌱 Estudando Angular, Spring, nodejs e react
 - 📧 Contate-me no email: douglas.cteles@hotmail.com
-- TCC Pós Graduação: [https://youtu.be/-3qZNrPsqvY?t=89](https://github.com/ProxDouglas/rotating-work-schedule)
+- TCC Pós Graduação: https://github.com/ProxDouglas/rotating-work-schedule
 
 <div align="center">
   <a href="https://github.com/ProxDouglas">
